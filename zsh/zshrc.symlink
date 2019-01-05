@@ -38,6 +38,7 @@ fi
     # tmuxifier
     export PATH="$HOME/.tmuxifier/bin:$PATH"
     eval "$(tmuxifier init -)"
+
     # add sml
     export PATH=/opt/smlnj/bin:$PATH
     export PATH="$HOME/opt/cross/bin:$PATH"
@@ -84,10 +85,6 @@ fi
     # Add backward history search
     bindkey "^R" history-incremental-search-backward
 
-    hash -d -- mag=/home/jure/Documents/mag
-    hash -d -- p=/home/jure/ruby_workspace/biosis/web
-    hash -d -- r=/home/jure/ruby_workspace/rng
-
     #BASE16_SHELL="$DOTFILES/.config/base16-shell/$THEME.$BACKGROUND.sh"
     # [[ -s $BASE16_SHELL ]] && source $BASE16_SHELL
     #source $BASE16_SHELL
@@ -96,7 +93,7 @@ fi
     #source /usr/local/lib/python2.7/dist-packages/powerline/bindings/zsh/powerline.zsh
     ######################### OH MY ZSH #######################33
     # Path to your oh-my-zsh installation.
-    export ZSH=/home/duco/.oh-my-zsh
+    export ZSH=$HOME/.oh-my-zsh
 
     # Set name of the theme to load.
     # Look in ~/.oh-my-zsh/themes/
