@@ -15,7 +15,7 @@ Welcome to my world.
 * `zsh`
 * `tmux`
 * `git`
-* `SublimeText` with the following plugins: Package Control, AdvancedNewFile, Autoprefixer, Case Conversion, Color Highlighter, DeleteBlankLines, Emmet, Git, HTML-CSS-JS Prettify, JSLint, Line Endings Unify, LoremIpsum, MarkdownPreview, Nettuts+ Fetch, Pretty JSON, [sublime_text_directional_duplicate_line-master](https://github.com/malvim/sublime_text_directional_duplicate_line), SublimeLinter, Terminal, TrailingSpaces
+* `SublimeText` with the following plugins: Package Control, AdvancedNewFile, Autoprefixer, Case Conversion, Color Highlighter, DeleteBlankLines, Emmet, Git, HTML-CSS-JS Prettify, JSLint, Line Endings Unify, LoremIpsum, MarkdownPreview, Nettuts+ Fetch, Pretty JSON, [sublime_text_directional_duplicate_line-master](https://github.com/malvim/sublime_text_directional_duplicate_line), SublimeLinter, Terminal, TrailingSpaces, ANSIEscape
 * `Visual Studio Code` with the following extensions: Autoprefixer, change-case, Color Highlight, ESLint, JS-CSS-HTML Formatter, Partial Diff, Project Manager, ruby-rubocop, Sass, Sublime Text Keymap and Settings Importer, Trailing Spaces
 
 ## Contents
